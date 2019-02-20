@@ -1,2 +1,2 @@
 # AJASS
-Schooling system
+School management system
